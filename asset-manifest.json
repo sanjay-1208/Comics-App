@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Comics-App/static/css/main.64ab8bd3.css",
+    "main.js": "/Comics-App/static/js/main.c2e73a96.js",
+    "static/js/453.674b1547.chunk.js": "/Comics-App/static/js/453.674b1547.chunk.js",
+    "static/media/avengers.jpg": "/Comics-App/static/media/avengers.947c46636409e9d99e3d.jpg",
+    "static/media/avengers2.jpg": "/Comics-App/static/media/avengers2.df12ea91f8d95a324b09.jpg",
+    "static/media/paper.jpg": "/Comics-App/static/media/paper.6dbff89b618dcc98ba81.jpg",
+    "index.html": "/Comics-App/index.html",
+    "main.64ab8bd3.css.map": "/Comics-App/static/css/main.64ab8bd3.css.map",
+    "main.c2e73a96.js.map": "/Comics-App/static/js/main.c2e73a96.js.map",
+    "453.674b1547.chunk.js.map": "/Comics-App/static/js/453.674b1547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64ab8bd3.css",
+    "static/js/main.c2e73a96.js"
+  ]
+}
